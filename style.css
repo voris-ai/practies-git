@@ -1,0 +1,112 @@
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.box1{
+    background-color: rgb(39, 249, 39);
+    position: relative;
+    top: 100px;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box2{
+    background-color: rgb(39, 249, 39);
+    position: absolute;
+    left: 58%;
+    top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+.box3{
+    background-color: rgb(39, 249, 39);
+    position: relative;
+    left: 42%;
+    top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+.box4{
+    background-color: rgb(39, 249, 39);
+    position: absolute;
+    left: 61%;
+    top: 267px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.CENTER{
+
+   width: 150px;
+   height: 150px;
+   background-color: rgb(0, 87, 29);
+   position: absolute;
+   top: 250px;
+   left: 49%;
+   border-radius: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 20px;
+   color: white;
+}
+.box5{
+    background-color: rgb(39, 249, 39);
+    position: relative;
+    top: 56px;
+    left: 39.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box6{
+    background-color: rgb(39, 249, 39);
+    position: absolute;
+    left: 58.4%;
+    top: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box7{
+    background-color: rgb(39, 249, 39);
+    position: relative;
+    left: 42%;
+    top: 82px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box8{
+    background-color: rgb(39, 249, 39);
+    position: relative;
+    left: 50.1%;
+    top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+body{
+
+    background-color: rgb(91, 91, 91);
+}
